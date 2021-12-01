@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+}
+
+.time {
+  display: inline-block;
+  width: 100%;
+  ;
+  height: 80%;
+  font-size: 300%;
+  margin: 10% auto 5% auto;
+  text-align: center;
+}
+
+.pink {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid #AE4CCF 0.25rem;
+  padding: 2rem;
+  box-shadow: 12px 12px 2px 1px #B983FF;
+}
+
+.footer {
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+}

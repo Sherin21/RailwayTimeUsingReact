@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/railway-time-using-react/static/js/main.e8ef0192.chunk.js",
+    "main.js.map": "/railway-time-using-react/static/js/main.e8ef0192.chunk.js.map",
+    "runtime-main.js": "/railway-time-using-react/static/js/runtime-main.565aeb75.js",
+    "runtime-main.js.map": "/railway-time-using-react/static/js/runtime-main.565aeb75.js.map",
+    "static/js/2.a0300b65.chunk.js": "/railway-time-using-react/static/js/2.a0300b65.chunk.js",
+    "static/js/2.a0300b65.chunk.js.map": "/railway-time-using-react/static/js/2.a0300b65.chunk.js.map",
+    "index.html": "/railway-time-using-react/index.html",
+    "static/js/2.a0300b65.chunk.js.LICENSE.txt": "/railway-time-using-react/static/js/2.a0300b65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.565aeb75.js",
+    "static/js/2.a0300b65.chunk.js",
+    "static/js/main.e8ef0192.chunk.js"
+  ]
+}
